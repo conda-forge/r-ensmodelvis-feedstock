@@ -1,11 +1,11 @@
-About r-ensmodelvis
-===================
+About r-ensmodelvis-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ensmodelvis-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/domijan/ensModelVis
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ensmodelvis-feedstock/blob/main/LICENSE.txt)
 
 Summary: Displays for model fits of multiple models and their ensembles. For classification models, the plots are heatmaps, for regression, scatterplots.
 
